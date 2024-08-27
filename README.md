@@ -1,4 +1,1 @@
-## EL-R personal website
-
-- Initially created in 2020 using HTML and CSS
-- Updated in 2023 to run on functional components via ReactJS.
+#### A personal website & portfolio created using ReactJS.
